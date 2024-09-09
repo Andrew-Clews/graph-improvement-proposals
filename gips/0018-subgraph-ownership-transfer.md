@@ -5,7 +5,7 @@ Authors: Ariel Barmat <ariel@edgeandnode.com>
 Created: 2021-09-25
 Stage: Candidate
 Implementations: https://github.com/graphprotocol/contracts/pull/497
----
+
 
 # Abstract
 
